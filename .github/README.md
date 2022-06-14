@@ -19,9 +19,9 @@
 ━━━━━━━━━━━━━━━━━━━━━━
 ## ㅤㅤㅤᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ​ 🚀
 ㅤㅤㅤᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ ꜰᴀʟʟᴇɴ ʀᴏʙᴏᴛ​
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AnonymousR1025/FallenRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/STDDEEPANSHU/STD-BOYS-ROBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  ━━━━━━━━━━━━━━━━━━━━━━
 
 ### ㅤㅤㅤㅤCREDITS 😘
 
-🖤 𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦 : ᴍᴇ ᴏɴ [ɢɪᴛʜᴜʙ💞](https://github.com/AnonymousBoy1025)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ᴍᴇ ᴏɴ [ᴛᴇʟᴇɢʀᴀᴍ💔](https://telegram.me/anonymous_was_bot)
+🖤 𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦 : ᴍᴇ ᴏɴ [ɢɪᴛʜᴜʙ💞](https://github.com/STDDEEPANSHU)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ᴍᴇ ᴏɴ [ᴛᴇʟᴇɢʀᴀᴍ💔](https://telegram.me/STD_DEEPANSHU)
